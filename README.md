@@ -1,6 +1,4 @@
 # ToDOListCdn01
-This website is for maintaining regular daily routine. 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Todo List</title>
